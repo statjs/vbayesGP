@@ -1,7 +1,7 @@
 # vbayesGP
 An R Package(Rcpp) for Gaussian Variational Approximation to Bayesian Semiparametric Gaussian Process Regression
 
-- Version 0.5.0
+- Version 0.5.0  
 Added Gaussian process multiple index models with random slope
 
 - Version 0.4.1  

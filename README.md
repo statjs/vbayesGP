@@ -5,4 +5,4 @@ R Package for Variational Gaussian Approximation of Bayesian Semiparametric Mode
 - National Research Foundation of Korea(NRF) grant funded by the Korea government(MSIT) (no. 2021R1A2C1014409).
 
 References:
-Seongil Jo, Shinhee Ye, Georg Hahn, and Woojoo Lee (2026). Accelerated Bayesian Kernel Machine Regression: A Gaussian Variational Approximation with the Horseshoe Prior. 36:79.
+- Seongil Jo, Shinhee Ye, Georg Hahn, and Woojoo Lee (2026). Accelerated Bayesian Kernel Machine Regression: A Gaussian Variational Approximation with the Horseshoe Prior. 36:79.

@@ -6,7 +6,7 @@
 
 ## References:
 - Seongil Jo, Shinhee Ye, Georg Hahn, and Woojoo Lee (2026). Accelerated Bayesian Kernel Machine Regression: A Gaussian Variational Approximation with the Horseshoe Prior. 36:79.
-- Seongil Jo, David J. Nott, Gyeongmin Kim, and Woojoo Lee (2026). Logit-link BKMR with Shrinkage Priors: Scalable Variational Inference via P{\'o}lya-gamma Augmentation. Preprint.
+- Seongil Jo, David J. Nott, Gyeongmin Kim, and Woojoo Lee (2026). Logit-link BKMR with Shrinkage Priors: Scalable Variational Inference via Polya-gamma Augmentation. Preprint.
 
 ## Installation:
 - From the files in this repository (the source tarball works on every platform; the binaries need no compiler):

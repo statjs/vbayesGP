@@ -12,10 +12,10 @@
 - From the files in this repository (the source tarball works on every platform; the binaries need no compiler):
 
     ### macOS (arm64), R 4.5
-    install.packages("https://github.com/statjs/vbayesGP/raw/main/vbayesGP_1.4.1.tgz", repos = NULL)
+    install.packages("https://github.com/statjs/vbayesGP/raw/main/vbayesGP_1.5.0.tgz", repos = NULL)
     ### Windows
-    install.packages("https://github.com/statjs/vbayesGP/raw/main/vbayesGP_1.4.1.zip", repos = NULL)
+    install.packages("https://github.com/statjs/vbayesGP/raw/main/vbayesGP_1.5.0.zip", repos = NULL)
 
 ## Documentation:
-- Getting started (vignette): https://statjs.github.io/vbayesGP/vbayesGP-1.4.1-vignette.html
-- Reference manual: [vbayesGP-1.4.1-manual.pdf](vbayesGP-1.4.1-manual.pdf)
+- Getting started (vignette): https://statjs.github.io/vbayesGP/vbayesGP-1.5.0-vignette.html
+- Reference manual: [vbayesGP-1.5.0-manual.pdf](vbayesGP-1.5.0-manual.pdf)
